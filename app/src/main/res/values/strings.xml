@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseNesting</string>
+    <string name="save_data">Save Data</string>
+    <string name="user">User</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_data">Get Data</string>
+</resources>

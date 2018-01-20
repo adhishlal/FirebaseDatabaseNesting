@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86857429981",
+    "firebase_url": "https://fir-databasenesting.firebaseio.com",
+    "project_id": "fir-databasenesting",
+    "storage_bucket": "fir-databasenesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86857429981:android:21245d3b30c88a87",
+        "android_client_info": {
+          "package_name": "com.example.adhish.firebasedatabasenesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86857429981-ps46utqe807adsbvk8ocmuri15q0cq02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ1640rktxqD5UoKwkiTYGppqNlePzAWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
